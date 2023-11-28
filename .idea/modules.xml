@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KernelJava.iml" filepath="$PROJECT_DIR$/.idea/KernelJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SISProject/SISProject.iml" filepath="$PROJECT_DIR$/SISProject/SISProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scheduling/Scheduling.iml" filepath="$PROJECT_DIR$/Scheduling/Scheduling.iml" />
+    </modules>
+  </component>
+</project>
